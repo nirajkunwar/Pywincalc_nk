@@ -1,0 +1,12 @@
+include pywincalc/standards/*.dsp
+include pywincalc/standards/*.loc
+include pywincalc/standards/*.scc
+include pywincalc/standards/*.ssp
+include pywincalc/standards/*.std
+include pywincalc/standards/*.wvl
+include CMakeLists.txt
+include CMakeLists-pybind11.txt
+include CMakeLists-pybind11.txt.in
+include CMakeLists-WinCalc.txt
+include CMakeLists-WinCalc.txt.in
+include src/wincalcbindings.cpp
